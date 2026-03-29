@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="1773" height="2364" alt="生成特定玉米图片" src="https://github.com/user-attachments/assets/28629272-edfa-4cda-9aa1-94f257e911db" />## Hi👋我是Chen HongYuan
 
 <!--
 **chenhongyuan1/chenhongyuan1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
