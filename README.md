@@ -1,5 +1,5 @@
-Hi👋我是Chen HongYuan
+#Hi👋我是Chen HongYuan
 
-🎓 CS· 软件工程本科在读 
+🎓 CS· 软件工程 
 
 
